@@ -1,0 +1,6 @@
+echo "# PHPAssigment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tuanlinh3667/PHPAssigment.git
+git push -u origin master
